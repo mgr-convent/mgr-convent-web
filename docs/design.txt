@@ -1,0 +1,4 @@
+
+MGR Convent Website:
+    technologies to be used: Next Js, docker
+    database(if required): postgresql

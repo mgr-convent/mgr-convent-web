@@ -1,0 +1,38 @@
+Website:
+    => Dashboard -> carousel (photos)
+                 -> menu -> Home -> dashboard
+                         -> about -> about school
+                                  -> history
+                                  -> mission
+                                  -> principal/director message
+                                  -> sister institutes
+                                  -> Recommendation
+                                  -> Hostel
+                         -> academics -> primary section
+                                      -> secondary section
+                                      -> faculty -> faculty 1
+                                                 -> faculty 2
+                         -> events -> sports activity
+                                   -> annual day ceremony
+                                   -> Academic calendar
+                                   -> notice board
+                         -> image gallery
+                         -> admission -> process
+                                      -> documentation
+                                      -> criteria
+                                      -> fee structure(admission fee, exam fee, etc)
+                         -> contact Us -> address, phone
+                                       -> map
+
+App => login -> as student
+             -> as staff
+             -> as principal
+             -> as Admin
+             -> as parent
+    => Dashboard -> notification
+                 -> Profile -> setting -> privacy and data control
+                                        -> password and security
+                 -> staffs(for principal and Admin) -> staff 1 -> details
+                                                                -> payroll details
+                                                                -> time sheet
+    => 
