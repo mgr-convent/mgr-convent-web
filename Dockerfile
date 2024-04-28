@@ -19,10 +19,10 @@ RUN npm ci
 # Stage:2 => dev
 # Enable hot-reload for development phase
 
-# FROM base AS dev
-# WORKDIR /mgr
-# COPY --from=deps /mgr/node_modules ./node_modules
-# COPY . .
+FROM base AS dev
+WORKDIR /mgr
+COPY --from=deps /mgr/node_modules ./node_modules
+COPY . .
 ##########################################################################################
 
 ##########################################################################################
