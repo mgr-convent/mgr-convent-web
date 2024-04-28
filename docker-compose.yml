@@ -1,0 +1,13 @@
+# services as containers
+services:
+  web:
+    container_name: mgr-convent
+    command: npm run dev --reload
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    volumes:
+      - ./src:/mgr/src:rw
+      - .:/mgr:rw

@@ -1,0 +1,17 @@
+# ignored files for docker build
+
+docs
+
+Dockerfile
+
+.dockerignore
+
+node_modules
+
+npm-debug.log
+
+README.md
+
+.next
+
+.git
